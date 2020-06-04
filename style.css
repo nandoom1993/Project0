@@ -1,0 +1,36 @@
+body {
+    background-color: #fffdd0;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+    color: #4a0e5c;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: #4a0e5c;
+}
+
+table {
+    border: 5px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+}
+
+th,td {
+    border: 1px solid black;
+}
+
+#table0 {
+    color: #4a0e5c;
+    margin: 50px;
+}
+
+#img0 {
+    margin: auto;
+    text-align: center;
+}
